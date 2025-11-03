@@ -30,3 +30,10 @@ while True:
     else:
         print("Invalid choice.")
         print("-"*50)
+
+
+# this is a test lol
+lizzo = 'flautist'
+nicki_minaj = 'rapper'
+benson_boone = 'backflipper'
+azelia_banks = 'canceled'
